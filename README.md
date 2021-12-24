@@ -17,6 +17,6 @@ No Requirement of API ID and API HASH
 
 
 ## Support Group
-   - Join [𝑼𝒏𝒓𝒂𝒗𝒆𝒍 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑](https://t.me/TheUnravelArmy) for any assistance.
+   - Join [𝑼𝒏𝒓𝒂𝒗𝒆𝒍 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑](https://t.me/TheUnravelArmy) for any assistance..
 ## Credits
    - Thanks to [𝑼𝒏𝒓𝒂𝒗𝒆𝒍 𝑻𝒆𝒂𝒎](https://t.me/TheUnravelArmy).

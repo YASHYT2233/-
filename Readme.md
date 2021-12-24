@@ -1,7 +1,7 @@
-# Yukki Multi Spam Bot 
+# 𝑼𝒏𝒓𝒂𝒗𝒆𝒍 𝑴𝒖𝒍𝒕𝒊𝒔𝒑𝒂𝒎 𝑩𝒐𝒕
 
 <p align="center">
-  <img src="https://telegra.ph/file/9daafeb39193a4a22ee5c.jpg">
+  <img src="https://telegra.ph/file/119ec1b3bad4455c7e7be.jpg">
 </p>
 
 ## 🚀 Deploy on Heroku 
@@ -17,6 +17,6 @@ No Requirement of API ID and API HASH
 
 
 ## Support Group
-   - Join [Yukki Support Group](https://t.me/officialyukki) for any assistance.
+   - Join [𝑼𝒏𝒓𝒂𝒗𝒆𝒍 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑](https://t.me/TheUnravelArmy) for any assistance.
 ## Credits
-   - Thanks to [Yukki Team](https://t.me/officialyukki).
+   - Thanks to [𝑼𝒏𝒓𝒂𝒗𝒆𝒍 𝑻𝒆𝒂𝒎](https://t.me/TheUnravelArmy).

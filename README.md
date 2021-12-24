@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://git.heroku.com/unravel-spambot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/YASHYT2233/UnravelOP-Spambot)
 
 You can Use these [API ID and API HASH](https://t.me/OfficialYukki/135) while deploying
 
